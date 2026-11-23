@@ -1,6 +1,10 @@
 # 서울 구별 카페 현황 (2026년 3분기 스냅샷) 
 
+![Coffee GIF](https://media.giphy.com/media/3nbxypT20Ulmo/giphy.gif)
+
 2026년 3분기 기준 서울 25구의 카페 수와, 전체 상가에서 카페가 차지하는 비중을 비교했다. 
+
+[분석 노트북 보기](seoul_commercial_v4.ipynb)
 
 ## 배경과 질문 
 
@@ -57,5 +61,6 @@
 - 위 원본 링크에서 데이터를 받아 폴더에서 서울시에 해당하는 파일 선택.
 
 ## 폴더 구조 
-원본 CSV (용량이 큰 관계로 GitHub에는 올리지 않았지만 직접 데이터를 받아서 확인 요망) 
-README.md
+- README.md
+- [분석 노트북 보기](seoul_commercial_v4.ipynb)
+- 원본 CSV (용량이 큰 관계로 GitHub에는 올리지 않았지만 직접 데이터를 받아서 확인 요망) 
